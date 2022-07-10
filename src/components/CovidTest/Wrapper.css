@@ -1,0 +1,8 @@
+.district{
+ margin-left: 10px;
+}
+@media screen and (max-width: 768px){
+ .district{
+  margin-top: 10px;
+ }
+}
