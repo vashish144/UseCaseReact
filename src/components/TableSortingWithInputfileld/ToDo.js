@@ -46,6 +46,7 @@ const ToDo = () => {
    };
   // display handler
   const handleOnChage = (data, e) => {
+    console.log("data",data,e)
     data.value = e.target.value;
     // console.log("data", data);
   };
